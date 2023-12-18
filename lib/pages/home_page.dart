@@ -37,7 +37,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Flutter Noted App CWB',
+          'Flutter Noted App Sesi 12',
           style: TextStyle(color: Colors.white),
         ),
         elevation: 2,
